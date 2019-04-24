@@ -40,4 +40,16 @@ LinearSVR,
 NuSVR,
 SVR
 
-# The Neural Net(Keras Deep Learning) use 3 layers and 500 Epochs for predication use.
+# The Neural Net(Keras Deep Learning) use 3 layers and 500 Epochs for predication use
+
+# Machine Learning tool libray use:
+Keras,
+Tensorflow(as beack engeine for Keras)
+
+# Other helping tool libray use:
+NumPy
+Pandas,
+scipy,
+matplotlib,
+seaborn,
+sklearn,
